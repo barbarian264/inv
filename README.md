@@ -1,1 +1,2 @@
-# inv
+# iControl
+Inventory Control Application
